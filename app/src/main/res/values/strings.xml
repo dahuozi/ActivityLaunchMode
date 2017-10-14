@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityLaunchMode</string>
+    <string name="btn1">启动Activity01</string>
+    <string name="btn2">启动activity02</string>
+    <string name="btn3">启动Activity03</string>
+    <string name="btn4">启动activity04</string>
+</resources>
